@@ -12,9 +12,10 @@ Oriol Vinyals, Alexander Toshev, Samy Bengio, Dumitru Erhan.
 Full text available at: http://arxiv.org/abs/1609.06647
 
 ## Contact
-***Author:*** Chris Shallue
+***Original Author:*** Chris Shallue
+***Modified by:*** Chenxiao Niu
 
-***Pull requests and issues:*** @cshallue
+***Pull requests and issues:*** @ShawnNew
 
 ## Contents
 * [Model Overview](#model-overview)
